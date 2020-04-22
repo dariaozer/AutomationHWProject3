@@ -1,13 +1,11 @@
-package com.HW2;
+package com.HW3;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import utilities.BrowserFactory;
 
 public class VerifyFileIsUploaded_T7 {
 

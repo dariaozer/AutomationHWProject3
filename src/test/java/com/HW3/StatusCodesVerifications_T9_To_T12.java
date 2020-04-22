@@ -1,4 +1,4 @@
-package com.HW2;
+package com.HW3;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
@@ -9,7 +9,6 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-import utilities.BrowserFactory;
 
 public class StatusCodesVerifications_T9_To_T12 {
 
